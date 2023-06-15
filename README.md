@@ -7,7 +7,7 @@
 - 🌱 I’m searching for companys where I can expand my AI knowledge  
   
 
-- ⚡ Fun fact: Slow is smooth, smooth is fast... Thats why I prefer Python  
+- ⚡ Slow is smooth, smooth is fast... Thats why I prefer Python  
   
 
 <br/>  
