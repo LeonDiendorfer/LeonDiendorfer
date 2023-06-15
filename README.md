@@ -1,7 +1,7 @@
 ### <div align="center">I'm Leon, a full-time full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working for Sony DADC  
+- 🔭 I’m currently working for **Sony**  
   
 
 - 🌱 I’m searching for companys where I can expand my AI knowledge  
