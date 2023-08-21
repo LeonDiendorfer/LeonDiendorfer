@@ -66,14 +66,10 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-<br/>  
 
-
-## Current mood
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=leon.diendorfer&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
-<br/>  
 
-
+---
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=LeonDiendorfer&&style=flat-square" align="center" />
 </div>  
