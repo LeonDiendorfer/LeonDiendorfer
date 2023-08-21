@@ -8,6 +8,18 @@
 
 <br/>  
 
+## 
+<div align="center">
+<a href="https://github.com/LeonDiendorfer" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/leon-diendorfer-507279256" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/leondiendorfer" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -56,27 +68,11 @@
 
 
 
-## Join the vibe   
+##  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=leon.diendorfer&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/LeonDiendorfer" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/leon-diendorfer-507279256" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/leondiendorfer" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=LeonDiendorfer&&style=flat-square" align="center" />
