@@ -1,4 +1,4 @@
-### <div align="center">I'm Leon, a full-time full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Leon, 22, a full-time full-stack developer 👨‍💻</div>  
   ---
 
 - 🔭 Working for **Sony** since 2019
