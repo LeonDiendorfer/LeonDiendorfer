@@ -1,10 +1,10 @@
 ### <div align="center">I'm Leon, a full-time full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working for **Sony**  
+- 🔭 Working for **Sony** since 2019
   
 
-- 🌱 I’m searching for companys where I can expand my AI knowledge  
+- 🌱 I’m searching for companies where I can expand my AI knowledge  
   
 
 - ⚡ Slow is smooth, smooth is fast... Thats why I prefer Python  
