@@ -5,9 +5,6 @@
   
 
 - 🌱 I’m searching for companies where I can expand my AI knowledge  
-  <a href="https://www.typescriptlang.org/" target="_blank">
-  <img style="margin: 10px" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="TypeScript" height="50" /></a>
-  
 
 <br/>  
 
