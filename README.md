@@ -129,7 +129,7 @@ Graduation grade (LAP): 2 <br/>
 ---
 <div align="center">
   
-[⬆️ Back to top](#Hey!-<br/>-I'm-Leon,-22,-a-full-time-full-stack-developer-👨‍💻)      
+[⬆️ Back to top](https://github.com/LeonDiendorfer)      
 <img src="https://komarev.com/ghpvc/?username=LeonDiendorfer&&style=flat-square" align="center" />
 </div>  
 
