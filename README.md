@@ -1,5 +1,9 @@
-## <div align="center">Hey!<br/></div>  
-## <div align="center">I'm Leon, 22, a full-time full-stack developer 👨‍💻<br/></div>   
+<div align="center"> 
+  
+  # Hey! <br/> I'm Leon, 22, a full-time full-stack developer 👨‍💻
+  <br/>
+  </div>  
+## <div align="center"><br/></div>   
 
 - 🔭 Working for [Sony](https://www.sonydadc.com/) since 2019
 
@@ -125,7 +129,7 @@ Graduation grade (LAP): 2 <br/>
 ---
 <div align="center">
   
-[⬆️ Back to top](#hey!)      
+[⬆️ Back to top](#Hey!-<br/>-I'm-Leon,-22,-a-full-time-full-stack-developer-👨‍💻)      
 <img src="https://komarev.com/ghpvc/?username=LeonDiendorfer&&style=flat-square" align="center" />
 </div>  
 
