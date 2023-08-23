@@ -95,6 +95,16 @@ Graduation grade (LAP): 2 <br/>
 | Sony | Softwaredeveloper / Coding  | 2019 | 2023 |
 </details>
 
+<details><summary> Projects / Matura</summary>
+  <br/>  
+   
+| Project  | For |
+| ------------- | ------------- |
+| Multiple DB-Applications | Sony  |
+| DB-Migration / Application-Migration | Sony  |
+| Quality-Check AI | Sony  |
+| [Sudoku Battle (Graduation Project)](https://www.lbs4.salzburg.at/news/aktuelles/artikel/projekt-sudoku-battle-by-zinendo)  | Professional School  |
+</details>
 <br/>
 
 ## My socials
