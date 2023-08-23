@@ -5,7 +5,7 @@
   
 - 🌱 I’m searching for companies where I can expand my AI knowledge
 
-- [here](#my-socials)
+- 📱[My Socials](#my-socials)
 
 - About me
 
