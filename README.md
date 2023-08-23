@@ -3,7 +3,7 @@
   # Hey! <br/> I'm Leon, 22, a full-time full-stack developer 👨‍💻
   <br/>
   </div>  
-## <div align="center"><br/></div>   
+<div align="center"><br/></div>   
 
 - 🔭 Working for [Sony](https://www.sonydadc.com/) since 2019
 
