@@ -80,10 +80,10 @@ Graduation grade (LAP): 2 <br/>
    
 | Year  | Grade |
 | ------------- | ------------- |
-| 2020 | 1  |
-| 2021 | 2  |
-| 2022 | 1  |
 | 2023 | 1  |
+| 2022 | 1 |
+| 2021 | 2  |
+| 2020 | 1  |
 
 
 
@@ -104,10 +104,11 @@ Graduation grade (LAP): 2 <br/>
   
 | Company  | Role | Start |End 
 | ------------- | ------------- | ------------- | ------------- |
-| HTL Itzling | Coding & Engineering | 2015 | 2018
-| Media Markt | Internship (mandatory for school)  | 2015 | 2018
+| Sony | Softwaredeveloper / Coding  | 2019 | Today |
 | Army | Mandatory Military Service (Austria)  | 2018 | 2018
-| Sony | Softwaredeveloper / Coding  | 2019 | 2023 |
+| Media Markt | Internship (mandatory for school)  | 2015 | 2018
+| HTL Itzling | Coding & Engineering | 2015 | 2018
+
 </details>
 
 <details><summary>🛠️ Projects</summary>
