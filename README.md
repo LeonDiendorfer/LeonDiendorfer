@@ -1,9 +1,7 @@
 ### <div align="center">I'm Leon, 22, a full-time full-stack developer 👨‍💻</div>  
   ---
 
-- 🔭 Working for **Sony** since 2019
-  
-- 🌱 I’m searching for companies where I can expand my AI knowledge
+- 🔭 Working for [Sony](https://www.sonydadc.com/) since 2019
 
 - 📱[My Socials](#my-socials)
 
@@ -57,7 +55,7 @@
 
 ## About me
 
- <details><summary> Apprenticeship Coding</summary>
+ <details><summary>💻 Apprenticeship Coding</summary>
    <br/>
 Apprenticeship at Sony <br/>
 Graduation grade (LAP): 2 <br/>
@@ -74,7 +72,7 @@ Graduation grade (LAP): 2 <br/>
 
 </details>
 
- <details><summary> A levels / Matura</summary>
+ <details><summary>🎓 A levels / Matura</summary>
   <br/>  
    
 | Subject  | Grade |
@@ -84,7 +82,7 @@ Graduation grade (LAP): 2 <br/>
 | German | 2  |
 </details>
 
-<details><summary> Experience</summary>
+<details><summary>💼 Experience</summary>
 <br/>  
   
 | Company  | Role | Start |End 
@@ -95,7 +93,7 @@ Graduation grade (LAP): 2 <br/>
 | Sony | Softwaredeveloper / Coding  | 2019 | 2023 |
 </details>
 
-<details><summary> Projects / Matura</summary>
+<details><summary>🛠️ Projects</summary>
   <br/>  
    
 | Project  | For |
