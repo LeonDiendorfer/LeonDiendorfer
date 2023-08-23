@@ -1,7 +1,6 @@
-<div align="center"> 
+<div id='tophead' align="center"> 
   
   # Hey! <br/> I'm Leon, 22, a full-time full-stack developer 👨‍💻
-  <br/>
   </div>  
 <div align="center"><br/></div>   
 
@@ -129,7 +128,7 @@ Graduation grade (LAP): 2 <br/>
 ---
 <div align="center">
   
-[⬆️ Back to top](https://github.com/LeonDiendorfer)      
+[⬆️ Back to top](#tophead)      
 <img src="https://komarev.com/ghpvc/?username=LeonDiendorfer&&style=flat-square" align="center" />
 </div>  
 
