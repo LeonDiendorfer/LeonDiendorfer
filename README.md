@@ -3,11 +3,13 @@
 
 - 🔭 Working for **Sony** since 2019
   
+- 🌱 I’m searching for companies where I can expand my AI knowledge
 
-- 🌱 I’m searching for companies where I can expand my AI knowledge  
+- [here](#my-socials)
 
-<br/>  
+- About me
 
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
