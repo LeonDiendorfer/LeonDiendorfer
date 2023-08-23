@@ -1,4 +1,4 @@
-### <div align="center">Hey!<br/></div>  
+## <div align="center">Hey!<br/></div>  
 ## <div align="center">I'm Leon, 22, a full-time full-stack developer 👨‍💻<br/></div>   
 
 - 🔭 Working for [Sony](https://www.sonydadc.com/) since 2019
