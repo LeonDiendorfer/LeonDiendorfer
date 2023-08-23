@@ -7,7 +7,7 @@
 
 - 📱[My Socials](#my-socials)
 
-- About me
+- 🙋‍♂️[About me](#about-me)
 
   
 ## My Skill Set  
@@ -55,6 +55,47 @@
 
 <br/>  
 
+## About me
+
+ <details><summary> Apprenticeship Coding</summary>
+   <br/>
+Apprenticeship at Sony <br/>
+Graduation grade (LAP): 2 <br/>
+  
+   
+| Year  | Grade |
+| ------------- | ------------- |
+| 1 | 1  |
+| 2 | 2  |
+| 3 | 1  |
+| 4 | 1  |
+
+
+
+</details>
+
+ <details><summary> A levels / Matura</summary>
+  <br/>  
+   
+| Subject  | Grade |
+| ------------- | ------------- |
+| English | 1  |
+| Math | 2  |
+| German | 2  |
+</details>
+
+<details><summary> Experience</summary>
+<br/>  
+  
+| Company  | Role | Start |End 
+| ------------- | ------------- | ------------- | ------------- |
+| HTL Itzling | Coding & Engineering | 2015 | 2018
+| Media Markt | Internship (mandatory for school)  | 2015 | 2018
+| Army | Mandatory Military Service (Austria)  | 2018 | 2018
+| Sony | Softwaredeveloper / Coding  | 2019 | 2023 |
+</details>
+
+<br/>
 
 ## My socials
 <div align="center">
