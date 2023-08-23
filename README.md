@@ -3,7 +3,7 @@
 
 - 🔭 Working for [Sony](https://www.sonydadc.com/) since 2019
 
-- 🌱 I am currently looking for companies that can offer opportunities to further develop and expand my knowledge in the field of artificial intelligence
+- 🌱 I am currently looking for companies that can offer opportunities to expand my AI knowledge
 
 - 📱[My Socials](#my-socials)
 
