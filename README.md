@@ -21,7 +21,6 @@
 
 - 🙋‍♂️[About me](#about-me)
 
-- 📱[Music](#Listen-along)
 
     
 ## My Skill Set  
