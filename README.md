@@ -71,20 +71,15 @@
 
 ## About me
 
- <details><summary>💻 Apprenticeship Coding</summary>
-   <br/>
-Apprenticeship at Sony <br/>
-Graduation grade (LAP): 2 <br/>
+<details><summary>💼 Experience</summary>
+<br/>  
   
-   
-| Year  | Grade |
-| ------------- | ------------- |
-| 2023 | 1  |
-| 2022 | 1 |
-| 2021 | 2  |
-| 2020 | 1  |
-
-
+| Company  | Role | Start |End 
+| ------------- | ------------- | ------------- | ------------- |
+| Sony | Softwaredeveloper / Coding  | 2019 | Today |
+| Army | Mandatory Military Service (Austria)  | 2018 | 2018
+| Media Markt | Internship (mandatory for school)  | 2015 | 2018
+| HTL Itzling | Coding & Engineering | 2015 | 2018
 
 </details>
 
@@ -98,17 +93,23 @@ Graduation grade (LAP): 2 <br/>
 | German | 2  |
 </details>
 
-<details><summary>💼 Experience</summary>
-<br/>  
+ <details><summary>💻 Apprenticeship Coding</summary>
+   <br/>
+   
+Completed apprenticeship at **Sony** <br/>
+Graduation grade / **LAP**: **2** <br/>
   
-| Company  | Role | Start |End 
-| ------------- | ------------- | ------------- | ------------- |
-| Sony | Softwaredeveloper / Coding  | 2019 | Today |
-| Army | Mandatory Military Service (Austria)  | 2018 | 2018
-| Media Markt | Internship (mandatory for school)  | 2015 | 2018
-| HTL Itzling | Coding & Engineering | 2015 | 2018
+   
+| Year  | Grade |
+| ------------- | ------------- |
+| 2023 | 1  |
+| 2022 | 1 |
+| 2021 | 2  |
+| 2020 | 1  |
 
 </details>
+
+
 
 <details><summary>🛠️ Projects</summary>
   <br/>  
