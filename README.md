@@ -71,7 +71,7 @@
 
 ## About me
 
-<details><summary>💼 Experience</summary>
+<details><summary>💼 Work Experience</summary>
 <br/>  
   
 | Company  | Role | Start |End 
@@ -91,6 +91,7 @@
 | English | 1  |
 | Math | 2  |
 | German | 2  |
+| LAP-Coding | 2  |
 </details>
 
  <details><summary>💻 Apprenticeship Coding</summary>
