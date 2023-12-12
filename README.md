@@ -118,9 +118,11 @@ Graduation grade / **LAP**: **2** <br/>
    
 | Project  | For |
 | ------------- | ------------- |
-| Multiple DB-Applications | Sony  |
-| DB-Migration / Application-Migration | Sony  |
+| Access-Request Creation and Managing System | Sony  |
 | Quality-Check AI | Sony  |
+| Multiple DB-Applications | Sony  |
+| Application-Migrations | Sony  |
+| DB-Migrations | Sony  |
 | [Sudoku Battle (Graduation Project)](https://www.lbs4.salzburg.at/news/aktuelles/artikel/projekt-sudoku-battle-by-zinendo)  | Professional School  |
 </details>
 <br/>
