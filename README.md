@@ -15,9 +15,9 @@
 </a>  
 </div>  
 
-- 🔭 Working for [Sony](https://www.sonydadc.com/) since 2019
+- 🔭 Currently working for [Hagleitner]([https://www.sonydadc.com/](https://www.hagleitner.com/en/)) as a Data Engineer
 
-- 🌱 Currently looking for companies that can offer opportunities to expand my AI knowledge
+- 🌱 Worked for [Sony](https://www.sonydadc.com/) as a Software Developer (2019-2023)
 
 - 🙋‍♂️[About me](#about-me)
 
@@ -76,7 +76,8 @@
   
 | Company  | Role | Start |End 
 | ------------- | ------------- | ------------- | ------------- |
-| Sony | Softwaredeveloper / Coding  | 2019 | Today |
+| Hagleitner | Data Engineer | 2024 | Today |
+| Sony | Softwaredeveloper / Coding  | 2019 | 2023 |
 | Army | Mandatory Military Service (Austria)  | 2018 | 2018
 | Media Markt | Internship (mandatory for school)  | 2015 | 2018
 | HTL Itzling | Coding & Engineering | 2015 | 2018
