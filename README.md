@@ -15,11 +15,11 @@
 </a>  
 </div>  
 
-- 🔭 Currently working for [Hagleitner](https://www.hagleitner.com/en/) as a Data Engineer
+🔭 Currently working for [Hagleitner](https://www.hagleitner.com/en/) as a Data Engineer
 
-- 🌱 Worked for [Sony](https://www.sonydadc.com/) as a Software Developer (2019-2023)
+🌱 Worked for [Sony](https://www.sonydadc.com/) as a Software Developer (2019-2023)
 
-- 🙋‍♂️[About me](#about-me)
+🙋‍♂️[About me](#about-me)
 
 
     
