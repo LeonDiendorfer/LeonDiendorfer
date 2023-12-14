@@ -14,7 +14,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
+<br/> 
 🔭 Currently working for [Hagleitner](https://www.hagleitner.com/en/) as a Data Engineer
 
 🌱 Worked for [Sony](https://www.sonydadc.com/) as a Software Developer (2019-2023)
