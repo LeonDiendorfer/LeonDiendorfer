@@ -17,7 +17,7 @@
 
 <br/> 
 
-🔭 Currently working for [Hagleitner](https://www.hagleitner.com/en/) as a Data Engineer (2024-NOW)
+🔭 Currently working for [Hagleitner](https://www.hagleitner.com/en/) as a Data Engineer (2024-Today)
 
 <br/> 
 
