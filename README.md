@@ -56,6 +56,9 @@
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+<a href="https://www.microsoft.com/de-at/sql-server/sql-server-downloadssql " target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="SQL Server" height="50" /></a>
+<a href="https://learn.microsoft.com/de-de/sql/integration-services/sql-server-integration-services?view=sql-server-ver16" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:572/format:webp/1*OiQyMEkFAr7LSVKkJcidBA.jpeg" alt="SSIS" height="50" /></a>
+<a href="https://learn.microsoft.com/de-de/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver16" target="_blank"><img style="margin: 10px" src="https://www.axioworks.com/images/SSRS_logo_square.jpg" alt="SSRS" height="50" /></a>
 </div>
 
 </td><td valign="top" width="50%">
