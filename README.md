@@ -1,6 +1,6 @@
 <div id='tophead' align="center"> 
   
-  # Hey! <br/> I'm Leon, 23, a full-time software developer 👨‍💻
+  # Hey! <br/> I'm Leon, 23, a full-time Database Administrator 👨‍💻
   </div>  
 
 <div align="center">
