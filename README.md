@@ -98,7 +98,7 @@
    
 | Project  | For |
 | ------------- | ------------- |
-| Custom alerting with Agent-Jobs + Scipts | Hagleitner |
+| Custom alerting for Sales-Software with Agent-Jobs | Hagleitner |
 | Access-Request Creation and Managing System | Sony  |
 | Quality-Check AI | Sony  |
 | Multiple DB-Applications | Sony  |
