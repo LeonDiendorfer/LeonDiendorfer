@@ -82,7 +82,7 @@
   
 | Company  | Role | Start |End 
 | ------------- | ------------- | ------------- | ------------- |
-| Hagleitner | Data Engineer | 2024 | Today |
+| Hagleitner | DBA / Data Engineer | 2024 | Today |
 | Sony | Softwaredeveloper / Coding  | 2019 | 2023 |
 | Army | Mandatory Military Service (Austria)  | 2018 | 2018
 | Media Markt | Internship (mandatory for school)  | 2015 | 2018
