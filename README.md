@@ -89,20 +89,6 @@
 | HTL Itzling | Coding & Engineering | 2015 | 2018
 
 
-
-<summary>🛠️ Projects</summary>
-  <br/>  
-   
-| Project  | For |
-| ------------- | ------------- |
-| Access-Request Creation and Managing System | Sony  |
-| Quality-Check AI | Sony  |
-| Multiple DB-Applications | Sony  |
-| Application-Migrations | Sony  |
-| DB-Migrations | Sony  |
-| [Sudoku Battle (Graduation Project)](https://www.lbs4.salzburg.at/news/aktuelles/artikel/projekt-sudoku-battle-by-zinendo)  | Professional School  |
-
-
 <summary>🎓 A levels / Matura</summary>
   <br/>  
    
@@ -114,7 +100,7 @@
 | LAP-Coding | 2  |
 
 
- <summary>💻 Apprenticeship Coding</summary>
+ <details><summary>💻 Apprenticeship Coding</summary>
    <br/>
    
 Completed apprenticeship at **Sony** <br/>
@@ -127,6 +113,22 @@ Graduation grade / **LAP**: **2** <br/>
 | 2022 | 2 |
 | 2020 | 1  |
 | 2020 | 1  |
+</details>
+
+
+<details><summary>🛠️ Projects</summary>
+  <br/>  
+   
+| Project  | For |
+| ------------- | ------------- |
+| Access-Request Creation and Managing System | Sony  |
+| Quality-Check AI | Sony  |
+| Multiple DB-Applications | Sony  |
+| Application-Migrations | Sony  |
+| DB-Migrations | Sony  |
+| [Sudoku Battle (Graduation Project)](https://www.lbs4.salzburg.at/news/aktuelles/artikel/projekt-sudoku-battle-by-zinendo)  | Professional School  |
+
+</details>
 
 
 
