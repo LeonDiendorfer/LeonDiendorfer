@@ -77,7 +77,7 @@
 
 ## About me
 
-<details><summary>💼 Work Experience</summary>
+<summary>💼 Work Experience</summary>
 <br/>  
   
 | Company  | Role | Start |End 
@@ -88,9 +88,9 @@
 | Media Markt | Internship (mandatory for school)  | 2015 | 2018
 | HTL Itzling | Coding & Engineering | 2015 | 2018
 
-</details>
 
-<details><summary>🛠️ Projects</summary>
+
+<summary>🛠️ Projects</summary>
   <br/>  
    
 | Project  | For |
@@ -101,9 +101,9 @@
 | Application-Migrations | Sony  |
 | DB-Migrations | Sony  |
 | [Sudoku Battle (Graduation Project)](https://www.lbs4.salzburg.at/news/aktuelles/artikel/projekt-sudoku-battle-by-zinendo)  | Professional School  |
-</details>
 
- <details><summary>🎓 A levels / Matura</summary>
+
+<summary>🎓 A levels / Matura</summary>
   <br/>  
    
 | Subject  | Grade |
@@ -112,7 +112,7 @@
 | Math | 2  |
 | German | 2  |
 | LAP-Coding | 2  |
-</details>
+
 
  <summary>💻 Apprenticeship Coding</summary>
    <br/>
