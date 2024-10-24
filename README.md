@@ -114,7 +114,7 @@
 | LAP-Coding | 2  |
 </details>
 
- <details>💻 Apprenticeship Coding
+ <summary>💻 Apprenticeship Coding</summary>
    <br/>
    
 Completed apprenticeship at **Sony** <br/>
@@ -128,7 +128,7 @@ Graduation grade / **LAP**: **2** <br/>
 | 2020 | 1  |
 | 2020 | 1  |
 
-</details>
+
 
 <br/>
 
