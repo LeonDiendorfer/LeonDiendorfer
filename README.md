@@ -77,7 +77,7 @@
 
 ## About me
 
-<summary>💼 Work Experience</summary>
+<details><summary>💼 Work Experience</summary>
 <br/>  
   
 | Company  | Role | Start |End 
@@ -87,9 +87,9 @@
 | Army | Mandatory Military Service (Austria)  | 2018 | 2018
 | Media Markt | Internship (mandatory for school)  | 2015 | 2018
 | HTL Itzling | Coding & Engineering | 2015 | 2018
+</details>
 
-
-<summary>🎓 A levels / Matura</summary>
+<details><summary>🎓 A levels / Matura</summary>
   <br/>  
    
 | Subject  | Grade |
@@ -98,7 +98,7 @@
 | Math | 2  |
 | German | 2  |
 | LAP-Coding | 2  |
-
+</details>
 
  <details><summary>💻 Apprenticeship Coding</summary>
    <br/>
