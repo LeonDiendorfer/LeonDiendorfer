@@ -114,7 +114,7 @@
 | LAP-Coding | 2  |
 </details>
 
- <details><summary>💻 Apprenticeship Coding</summary>
+ <details>💻 Apprenticeship Coding
    <br/>
    
 Completed apprenticeship at **Sony** <br/>
